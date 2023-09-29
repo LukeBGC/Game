@@ -18,7 +18,8 @@ e1_health = 2
 
 
 # Running the game
+print("Welcome to ____ \nYou are a character stuck in a dungeon and must get out")
 ## Movement
 """
-
+  
 """
